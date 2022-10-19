@@ -3,6 +3,6 @@
 
    
 - 💻 managing geospatial licenses and systems for Johns Hopkins University as part of the <a href="https://dataservices.library.jhu.edu/">Data Services</a> unit
-- 📘 currently learning Carto
+- 📘 currently learning Javascript and Carto
 - 💬 favorite languages: 🐍 and R
 - 📫 connect with me on [LinkedIn](https://www.linkedin.com/in/reinacmurray/)
